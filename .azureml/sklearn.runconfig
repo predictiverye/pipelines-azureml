@@ -2,7 +2,7 @@
     "script": "train.py",
     "framework": "Python",
     "communicator": "None",
-    "target": "cpu",
+    "target": "sbamlsvc-mlc2",
     "environment": {
         "python": {
             "interpreterPath": "python",
